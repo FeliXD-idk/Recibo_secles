@@ -5,7 +5,7 @@ import getpass
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 import time as t
-
+#catalogo de velas
 velas = {
     "1": "Muñeco de nieve, precio:10.000$",
     "2": "Santa, precio:10.000$",
